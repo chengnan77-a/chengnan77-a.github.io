@@ -1,0 +1,5 @@
+{
+  "name": "Geo Photo Gallery",
+  "description": "A web application to display your photography portfolio on an interactive map. It automatically reads GPS data from your photos and plots them. Supports both standard and 360° panoramic images.",
+  "requestFramePermissions": []
+}
